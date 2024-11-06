@@ -1,44 +1,27 @@
-name: generate animation
+name: Snake
 
 on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "0 0 * * *"
-
-  # allows to manually run the job at any time
-  workflow_dispatch:
-
-  # run on every push on the master branch
   push:
+    branches:
+      - main
+  pull_request:
     branches:
       - main
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  generate-snake:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the snake-svg branch
-        run: |
-          git config --global user.email "CodeWithShivanshu@users.noreply.github.com"
-          git config --global user.name "CodeWithShivanshu"
-          git clone -b snake-svg "https://${{ secrets.DAILY_JOKES }}@github.com/${{ github.repository }}" temp
-          cp -r dist/* temp/
-          cd temp
-          git add .
-          git commit -m "Update site"
-          git push "https://${{ secrets.DAILY_JOKES }}@github.com/${{ github.repository }}" snake-svg --force
+    - name: Generate Snake GIF
+      uses: platane/snk@v2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Upload Snake GIF
+      uses: actions/upload-artifact@v3
+      with:
+        name: snake-gif
+        path: ./snake.gif
