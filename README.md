@@ -26,10 +26,3 @@ align="center" >
 ## MY GRAPH
 ![snake gif](https://github.com/CodeWithShivanshu/CodeWithShivanshu/blob/output/github-contribution-grid-snake.gif)
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/CodeWithShivanshu/count.svg?"  />
-</div>
-
-###
