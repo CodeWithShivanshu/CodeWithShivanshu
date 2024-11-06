@@ -22,7 +22,9 @@ align="center" >
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodeWithShivanshu/CodeWithShivanshu/snake-svg/github-contribution-grid-snake.svg">
     </picture>
 </div>
-<img src="https://raw.githubusercontent.com/CodeWithShivanshu/CodeWithShivanshu/output/snake.svg" alt="Snake animation" />
+
+## MY GRAPH
+![snake gif](https://github.com/CodeWithShivanshu/CodeWithShivanshu/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
