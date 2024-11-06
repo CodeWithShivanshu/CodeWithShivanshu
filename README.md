@@ -18,7 +18,7 @@ align="center" >
     </div>
 
 </div>
-## contributions in the last year
+    <img style="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&random=true&width=435&lines=My+Contributions+in+the+last+year" alt="Typing SVG" />
 <img src="https://raw.githubusercontent.com/CodeWithShivanshu/CodeWithShivanshu/output/snake.svg" alt="Snake animation" />
 
 
