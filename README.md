@@ -24,5 +24,5 @@ align="center" >
 </div>
 
 
-![Snake Animation](https://github.com/[your-username]/[your-username]/actions/workflows/snake.yml/badge.svg)
+![Snake Animation](https://github.com/[CodeWithShivanshu]/[CodeWithShivanshu]/actions/workflows/snake.yml/badge.svg)
 
