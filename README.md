@@ -8,17 +8,17 @@ align="center" >
     <a href="https://www.linkedin.com/in/do-le-long-an/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://laansdole.github.io/LaansDole/">
+    <a href="https://CodeWithShivanshu.github.io/CodeWithShivanshu/">
         <img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" alt="Profile Badge"/>
     </a>
     <div align="center">
-        <a href="https://github.com/LaansDole">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaansDole&hide_border=true&card_width=338&theme=transparent" />
+        <a href="https://github.com/CodeWithShivanshu">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithShivanshu&hide_border=true&card_width=338&theme=transparent" />
         </a>
     </div>
     <picture align="center">
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaansDole/LaansDole/snake-svg/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaansDole/LaansDole/snake-svg/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LaansDole/LaansDole/snake-svg/github-contribution-grid-snake.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWithShivanshu/CodeWithShivanshu/snake-svg/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWithShivanshu/CodeWithShivanshu/snake-svg/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodeWithShivanshu/CodeWithShivanshu/snake-svg/github-contribution-grid-snake.svg">
     </picture>
 </div>
