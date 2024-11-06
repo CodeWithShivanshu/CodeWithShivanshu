@@ -22,9 +22,12 @@ align="center" >
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodeWithShivanshu/CodeWithShivanshu/snake-svg/github-contribution-grid-snake.svg">
     </picture>
 </div>
-# Welcome to my GitHub profile!
+<img src="https://raw.githubusercontent.com/CodeWithShivanshu/CodeWithShivanshu/output/snake.svg" alt="Snake animation" />
 
-Here is my Snake animation:
+###
 
-![Snake Animation](https://github.com/john-doe/john-doe/actions/workflows/snake.yml/badge.svg)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/CodeWithShivanshu/count.svg?"  />
+</div>
 
+###
