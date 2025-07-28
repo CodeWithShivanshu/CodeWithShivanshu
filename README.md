@@ -18,15 +18,14 @@ align="center" >
     </div>
 
 </div>
-    <img style="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=1000&center=true&vCenter=true&random=true&width=400&lines=My+Contributions+in+the+last+year" alt="Typing SVG" />
-<img src="https://raw.githubusercontent.com/CodeWithShivanshu/CodeWithShivanshu/output/snake.svg" alt="Snake animation" />
-<div align="left">
+    <img style="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&multiline=true&lines=Hello+World!;I+am+Shivanshu+" alt="Typing SVG" />
+
   
 
 ## Languages / Tools
 <!-- <img height="25px" src="https://github.com/user-attachments/assets/ac26f7eb-e133-4343-8afb-cb0cd2fda676" /> -->
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,tailwind,react,nextjs,cs,nodejs,express,deno,flask,fastapi,netlify,cpp,androidstudio,mysql,flutter,github,linux,mongodb,arduino,supabase,firebase,docker,gcp,aws,git,php,c&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=python,java,ts,js,tailwind,react,nextjs,cs,nodejs,express,deno,flask,fastapi,netlify,cpp,androidstudio,mysql,flutter,github,linux,mongodb,arduino,supabase,firebase,docker,gcp,aws,git,php,c&theme=dark)
  
 
 
