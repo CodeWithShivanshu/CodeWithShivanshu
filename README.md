@@ -18,7 +18,7 @@ align="center" >
     </div>
 
 </div>
-    <img style="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&multiline=true&lines=Hello+World!;I+am+Shivanshu+" alt="Typing SVG" />
+    <img style="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&lines=Hello+World!+;Hi%2C+I+am+Shivanshu" alt="Typing SVG" />
 
   
 
